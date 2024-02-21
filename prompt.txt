@@ -1,0 +1,5 @@
+"Why are you interested in taking CMSC320?"
+
+One of the most personally interesting aspects of computer science is its applications in data science and analysis.
+I am eager to develop my data science skillset and have done a lot of work around the field, inluding internships and bootcamps.
+Also I am excited for this final project as any experience to grow my portfolio is more than valuable to me.
